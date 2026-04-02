@@ -18,3 +18,4 @@ profilPengguna.usia = 31; // Mengubah nilai properti "usia" menjadi 31
 
 // delete
 delete profilPengguna.isPremium; // Menghapus properti "isPremium"
+
