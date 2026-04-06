@@ -21,3 +21,4 @@ daftarKeranjang = ["Laptop", "Mouse", "Keyboard", "Monitor"];
 daftarKeranjang.pop("Monitor");
 
 console.log(daftarKeranjang);
+
